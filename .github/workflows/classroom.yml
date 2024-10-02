@@ -18,7 +18,7 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: html_test
-        setup-command: nim install htmlhint
+        setup-command: npm install htmlhint
         command: htmlhint --config tests/.htmlhintrc '**/*.html'
         timeout: 10
         max-score: 50
