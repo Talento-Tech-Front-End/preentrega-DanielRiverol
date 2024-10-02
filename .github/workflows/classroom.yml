@@ -19,7 +19,7 @@ jobs:
       with:
         test-name: html_test
         setup-command: npm install htmlhint
-        command: npm run htmlhint --config tests/.htmlhintrc '**/*.html'
+        command: tests/.htmlhintrc '**/*.html'
         timeout: 10
         max-score: 50
     - name: Autograding Reporter
