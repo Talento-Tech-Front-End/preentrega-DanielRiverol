@@ -23,6 +23,9 @@
       "selfclosing": true,
       "attrsRequired": ["href", "alt"],
       "redundantAttrs": ["title"]
+    },
+    "img":{
+      "redundantAttrs": ["title"]
     }
   }
 }
