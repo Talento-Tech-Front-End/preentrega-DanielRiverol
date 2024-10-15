@@ -1,4 +1,5 @@
 ![Logo](https://github.com/talentotech-ba/recursos/blob/0dea22ffba99ff1e32e0c6e4d51f738816e7afa5/tt-banner.jpg?raw=true)
+
 # Entrega de la Implementación Parcial del Proyecto de E-commerce
 
 En este punto del curso, te has familiarizado con los conceptos fundamentales de HTML, CSS, y diseño responsivo. Es el momento de empezar a plasmar todo ese conocimiento en un proyecto real. Esta entrega parcial del proyecto te ayudará a consolidar las bases de tu sitio de e-commerce, asegurando que cumplas con todos los requisitos básicos antes de avanzar a las funcionalidades más complejas.
@@ -13,7 +14,7 @@ Asegúrate de que tu página web cuente con una estructura semántica clara y bi
 **Requisitos:**
 
 - Estructura semántica: Debes dividir el HTML en etiquetas semánticas principales como `<header>`, `<nav>`, `<main>`, `<section>`, y `<footer>`. Esto le dará una estructura clara y permitirá entender fácilmente las diferentes secciones del sitio.
-- DOCUMENTATION.md: Incluir un archivo DOCUMENTATION en tu repositorio que explique brevemente el propósito del proyecto. Por ejemplo: ¿De qué trata la página? ¿Qué funcionalidades incluye hasta el momento?
+- README.md: Incluir un archivo README en tu repositorio que explique brevemente el propósito del proyecto. Por ejemplo: ¿De qué trata la página? ¿Qué funcionalidades incluye hasta el momento?
 
 ### 2. Formulario de Contacto
 
