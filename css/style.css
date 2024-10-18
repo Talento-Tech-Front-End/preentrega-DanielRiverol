@@ -1,0 +1,9 @@
+.card img{
+    max-width: 300px !important;
+    max-height: 150px !important;
+    object-fit: contain !important;
+}
+
+input{
+    outline: none;border: 0;
+}
