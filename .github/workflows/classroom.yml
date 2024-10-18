@@ -19,7 +19,7 @@ jobs:
       with:
         test-name: html_test
         setup-command: npm install htmlhint
-        command: npm run lint:html
+        command: npm run lint:combined
         timeout: 10
         max-score: 50
     - name: css_test
